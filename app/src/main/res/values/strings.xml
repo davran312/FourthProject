@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FourthProject</string>
+    <string name="name">Имя</string>
+    <string name="number">Телефон</string>
+    <string name="adress">Адресс</string>
+    <string name="mail">Почта</string>
+    <string name="bitthday">Дата рождения</string>
+    <string name="registartion">Регистрация</string>
+    <string name="date">Укажите дату рождения</string>
+    <string name="save">Сохранить</string>
+</resources>
